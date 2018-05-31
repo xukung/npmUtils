@@ -1,0 +1,23 @@
+{
+  "name": "utils-xk",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xukung/npmUtils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "xk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xukung/npmUtils/issues"
+  },
+  "homepage": "https://github.com/xukung/npmUtils#readme",
+  "dependencies": {}
+}
