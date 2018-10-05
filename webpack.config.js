@@ -43,5 +43,5 @@ module.exports = {
             }
         ]
     },
-    plugins: [productionEnv, uglify]
+    plugins: [productionEnv]
 };
